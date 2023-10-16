@@ -234,7 +234,7 @@ const Home = () => {
             />
           )}
 
-          <h2 className={styles.title}>PICK $OME FRE$H FruitCoin</h2>
+          <h2 className={styles.title}>PICK $OME DOMINO TOYS token</h2>
           <p className={styles.explain}>
             Claim ERC20 tokens from{" "}
             <span className={styles.pink}>{contractMetadata?.name}</span>
