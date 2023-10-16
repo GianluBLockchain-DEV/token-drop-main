@@ -23,8 +23,7 @@
   min-width: 3rem;
   font-size: 1rem;
   background: #e5e5ea;
-  background-image: linear-gradient(to left, #cc25b3 0%, #418dff 101.52%);
-  color: #fff;
+  color: #930e0e;
   width: 180px;
   text-align: center;
   border-radius: 9999px;
@@ -60,7 +59,7 @@
   cursor: pointer;
   text-align: center;
   padding: 5px;
-  color: #fff;
+  color: #891e1e;
   font-weight: 600;
 }
 

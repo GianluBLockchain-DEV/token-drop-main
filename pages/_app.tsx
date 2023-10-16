@@ -12,15 +12,15 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider activeChain={activeChain}>
       <Head>
-        <title>fcoin</title>
+        <title>Domino toys NFT</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="fcoin official Repository to Showcase the token drop contract, including claim and transfer features."
+          content="domino nft's official Repository to Showcase the token drop contract, including claim and transfer features."
         />
         <meta
           name="keywords"
-          content="fcoin token drop, fcoin token transfer, fcoin token claim, fcoin token claim phases"
+          content="domino nft's  drop, domino nft's token transfer, domino nft's token claim, domino nft's token claim phases"
         />
       </Head>
       <Component {...pageProps} />

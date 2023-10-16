@@ -12,13 +12,13 @@ export default function ThirdwebGuideFooter() {
           width: 150,
           border: "1px solid #eaeaea",
           transform: "rotate(45deg)",
-          backgroundColor: " #eb8c34",
+          backgroundColor: " #fa00ff",
           cursor: "pointer",
         }}
         role="button"
         onClick={() =>
           window.open(
-            "https://fruttacoin.io",
+            "https://www.dominotoysnft.com/",
             "_blank"
           )
         }
@@ -26,20 +26,20 @@ export default function ThirdwebGuideFooter() {
 
       <div
         style={{
-          position: "fixed",
+          position: "absolute",
           bottom: 14,
           right: 18
         }}
       >
         <img
-          src="/fruit-basket.jpg"
+          src="/dominoimg2c.avif"
           width={40}
           height={40}
           role="button"
           style={{ cursor: "pointer" }}
           onClick={() =>
             window.open(
-              "https://fruttacoin.io",
+              "https://www.dominotoysnft.com/",
               "_blank"
             )
           }
